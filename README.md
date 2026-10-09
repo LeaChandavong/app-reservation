@@ -19,8 +19,8 @@ Projet conçu en équipe avec : Naomi, Lea, Federer
 
 ![Écran principal](ecran-principal.jpg)
 
-- Direction artistique : couleurs #101010, #f9f9f9, #FF310A et police ...
-- Sur téléphone et sur ordinateur : ...
+- Direction artistique : couleurs #101010, #f9f9f9, #FF310A et police Inter
+- Sur téléphone et sur ordinateur : L'écran et les boutons s'agrandies et rétrécies pour s'adapter au différent format d'écran.
 
 ## Le plan de développement
 
