@@ -15,7 +15,7 @@ Projet conçu en équipe avec : Naomi, Lea, Federer
 
 ## L'expérience
 
-![Schéma de navigation](navigation.png)
+![Schéma de navigation](<img width="764" height="546" alt="schema_navigation drawio" src="https://github.com/user-attachments/assets/715c9857-189b-4e90-9550-8b272ed53338" />)
 
 ![Écran principal](ecran-principal.jpg)
 
